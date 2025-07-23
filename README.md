@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # video_classification
 video classification using resnet  resnet-50 is trained on street dataset images(dataset contains classes:robbery,accident,traffic jam,
 protest and normal).After training the network,resnet can classify the different events in video with high accuracy.
@@ -21,3 +22,7 @@ some modifications are made so that when the input is given to the network and i
 then the images of accident are taken and stored in separate folder.
  
 [original post]=>https://www.pyimagesearch.com/2019/07/15/video-classification-with-keras-and-deep-learning/
+=======
+# SafeRoadsDL
+A real-time surveillance system to detect explosions and road accidents from CCTV footage using deep learning. Utilizes ResNet-50 with transfer learning to classify video frames with 95% accuracy. Triggers instant alerts, saves annotated videos, and integrates audio/email notifications for rapid response.
+>>>>>>> 8cf5682b53746e74f77b60b9c36dfed003e1da1f
