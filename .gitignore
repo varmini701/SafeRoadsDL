@@ -1,0 +1,7 @@
+tf_env/
+__pycache__/
+*.pyc
+.DS_Store
+*.log
+*.pkl
+*.h5
